@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Proxy</h1>
-<h3 align="center">A very cool person.</h3>
+<h3 align="center">Oh yes</h3>
 
 <p align="left"> <a href="https://twitter.com/proxy" target="blank"><img src="https://img.shields.io/twitter/follow/proxy?logo=twitter&style=for-the-badge" alt="proxy" /></a> </p>
 
-- 🔧 I’m currently working on **refinement of security systems**
+- 🔧 I’m currently working on **Nothing**
 
 - 📚 I’m currently studying **Computer Science**
 
 - 👨‍❤️‍💋‍👨 I’m looking to collaborate on **Nothing**
 
-- ⚡ Fun fact **I'm a very very cool person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
